@@ -48,3 +48,18 @@ chown user:group file  # Change ownership
 # SSH
 ssh username@ip_address      # Connect to remote server
 ssh-keygen                   # Generate SSH key pair
+```
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm a student at **AltSchool Africa**, currently focused on mastering:
+- Linux & Shell
+- Cloud Platforms
+- DevOps Tools
+- Automation & Infrastructure as Code
+
+Let’s connect on [LinkedIn](https://linkedin.com/) and [X](https://x.com/)!
+
+> 🚀 More updates coming weekly!
